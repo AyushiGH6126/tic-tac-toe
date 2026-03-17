@@ -24,11 +24,11 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 4. Click **Reset** or **New Game** to play again
 
 ## 📸 Screenshots
-
-![Game UI](screenshots/game.png)
-![Mobile View](screenshots/mobile.png)
-![Winner Screen](screenshots/winner.png)
-
+<p align="center">
+  <img src="screenshots/game.png" width="400"/>
+  <img src="screenshots/mobile.png" width="200"/>
+  <img src="screenshots/winner.png" width="400"/>
+</p>
 ## 📂 How to Run Locally
 
 1. Download or clone the repository
